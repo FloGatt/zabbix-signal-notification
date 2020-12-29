@@ -6,7 +6,7 @@ Place the script into the alertscripts folder of your Zabbix installation, make 
 
 On your Zabbix server, you have to create a custom Media type like shown below.
 
-![Zabbix Media Type](https://github.com/FloGatt/zabbix-signal-notification/blob/MASTER/zabbix_media_type.png)
-![Zabbix Media Type Templates](https://github.com/FloGatt/zabbix-signal-notification/blob/MASTER/zabbix_message_templates.png)
+![Zabbix Media Type](https://github.com/FloGatt/zabbix-signal-notification/blob/MASTER/zabbix_media_type.png?raw=true)
+![Zabbix Media Type Templates](https://github.com/FloGatt/zabbix-signal-notification/blob/MASTER/zabbix_message_templates.png?raw=true)
 
 
