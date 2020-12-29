@@ -1,0 +1,1 @@
+# zabbix-signal-notification
