@@ -1,14 +1,15 @@
 #!/bin/bash
 
 to=$1
-message=$2
+subject=$2
+message=$3
 
 post_payload()
 {
   cat <<EOF
 {
-  "message": "$message",
-  "number":"<sender>" ,
+  "message": "$subject: $message",
+  "number":"<sender>",
   "recipients": ["$to"]
 }
 EOF
